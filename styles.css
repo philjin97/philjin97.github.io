@@ -58,7 +58,7 @@ button:hover {
 
 @keyframes winner {
     0% {
-        border-color: black;
+        border-color: grey;
     }
 
     100% {
