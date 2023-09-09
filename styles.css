@@ -53,7 +53,7 @@ button:hover {
 
 .winAnimation{
     animation: winner 1s ease-in-out alternate infinite;
-    border: 5px solid black;
+    border: 3px solid grey;
 }
 
 @keyframes winner {
